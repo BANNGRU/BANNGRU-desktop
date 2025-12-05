@@ -64,7 +64,7 @@
 
 **Автоматическая установка:**
 ```
-https://github.com/banngru/banngru-desktop/releases/latest/download/BANNGRU-0.1.4-win-x64.exe
+https://github.com/banngru/banngru-desktop/releases/latest/download/BANNGRU-0.1.6-win-x64.exe
 ```
 
 **Или вручную:**
