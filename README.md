@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.1.1-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/version-0.1.8-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Windows">
   <img src="https://img.shields.io/badge/electron-39.2-47848F?style=for-the-badge&logo=electron" alt="Electron">
   <img src="https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge" alt="License">
